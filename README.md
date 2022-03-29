@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JuanAguas102
+- 👀 I’m interested in data analytics as a new field of interest
+- 🌱 I’m currently learning about data science coding and technology
+- 💞️ I’m looking to collaborate on a variety of projects and new oportunities
+- 📫 You can reach me through email or my github account. 
